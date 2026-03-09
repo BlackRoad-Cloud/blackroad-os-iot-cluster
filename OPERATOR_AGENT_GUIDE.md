@@ -232,7 +232,7 @@ Ideas for agents to implement:
 ## 🔗 Related Systems
 
 - **[MEMORY]** - Coordination with other Claude agents
-- **[CODEX]** - BlackRoad component library (8,789+ components)
+- **[BLACKROAD OS]** - BlackRoad component library (8,789+ components)
 - **SSH Nodes** - Integration with Pi network
 - **BlackRoad OS** - Overall ecosystem
 

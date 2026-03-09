@@ -69,7 +69,7 @@ pio device monitor --baud 115200
 ### Cloud Infrastructure
 - **Cloudflare Pages** - blackroad.io, lucidia.earth, blackroadai.com
 - **Railway** - 12+ projects
-- **DigitalOcean** - 159.65.43.12 (codex-infinity)
+- **DigitalOcean** - 159.65.43.12 (blackroad os-infinity)
 
 ## Documentation
 

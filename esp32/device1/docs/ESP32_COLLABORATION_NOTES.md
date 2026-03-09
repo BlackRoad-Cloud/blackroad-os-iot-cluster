@@ -105,7 +105,7 @@ pio device monitor --baud 115200
 - **Cloudflare:** blackroad.io, lucidia.earth, blackroadai.com, blackroadquantum.com
 - **GitHub:** 15 orgs, 66+ repos (blackboxprogramming)
 - **Railway:** 12+ projects
-- **DigitalOcean:** 159.65.43.12 (codex-infinity)
+- **DigitalOcean:** 159.65.43.12 (blackroad os-infinity)
 
 ## Agent Identity
 

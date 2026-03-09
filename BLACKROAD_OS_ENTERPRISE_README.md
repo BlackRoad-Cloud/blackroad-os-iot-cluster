@@ -391,7 +391,7 @@ python3 -c "import serial; s = serial.Serial('/dev/cu.usbserial-110', 115200, ti
 
 This device is part of the larger BlackRoad ecosystem:
 - **[MEMORY]** - Agent coordination system
-- **[CODEX]** - 8,789+ component library
+- **[BLACKROAD OS]** - 8,789+ component library
 - **SSH Network** - 5 connected nodes
 - **Cloudflare** - 16 zones, 8 Pages projects
 - **GitHub** - 15 orgs, 66 repositories
